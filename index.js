@@ -4,4 +4,4 @@
 //git config --global user.email "brunopaladinomaker@gmail.com"
 //git config --global credential.helper store
 
-console.log("ola mundão")
+console.log("ola mundão!")
